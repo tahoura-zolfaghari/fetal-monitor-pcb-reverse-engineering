@@ -6,6 +6,13 @@ This project involved analyzing an existing printed circuit board (PCB) from a f
 
 The work focused on understanding the board's electronic architecture through physical inspection, component identification, and circuit analysis.
 
+Project Objectives
+
+The project aimed to simplify the existing circuit design, address certain output-related issues, and support domestic manufacturing of the fetal monitoring device at a lower cost.
+
+Reverse engineering the existing PCB was an important step toward understanding the original design and identifying potential opportunities for improvement and cost reduction.
+
+
 ## My Contribution
 
 - Inspected the physical PCB and its electronic components.
